@@ -68,6 +68,11 @@ https://magnetikonline.github.io/markdown-toc-generate/ to generate a table of c
         <td>Right mouse button</td>
         <td></td>
     </tr>
+     <tr>
+        <td>toggle fly mode</td>
+        <td>G Key or enter "/fly" in chat</td>
+        <td></td>
+    </tr>
     <tr>
         <td>Move faster</td>
         <td>Shift</td>
@@ -188,6 +193,11 @@ You can also use the [keyboard keys](#keyboard-and-mouse-controls) listed above 
     <tr>
         <td>Teleport</td>
         <td>Trigger</td>
+        <td></td>
+    </tr>
+      <tr>
+        <td>toggle fly mode</td>
+        <td>press joystick</td>
         <td></td>
     </tr>
     <tr>
